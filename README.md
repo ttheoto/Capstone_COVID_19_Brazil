@@ -1,4 +1,7 @@
-# Brazil Civil Registry Data
+FORKED FROM https://github.com/capyvara/brazil-civil-registry-data
+BRASIL.IO Data
+
+Brazil Civil Registry Data
 Raw scrapings of https://transparencia.registrocivil.org.br/
 
 The idea is that if we minimize the number of people scraping their website, everyone will benefit, so this repo will try to keep fine grained data as possible. Due to the design of their website extracting detailed information may be costly.
